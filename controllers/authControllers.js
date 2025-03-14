@@ -1,30 +1,14 @@
-const { registerUser, loginUser } = require("../services/authService");
-const { generateResponse } = require("../utils");
+const { db } = require("../config/db"); // Importing 'db' directly
 
-const register = async (req, res) => {
-  try {
-    const userId = await registerUser(req.body);
-    const responseObj = generateResponse(userId, false);
-    res.status(201).json(responseObj);
-  } catch (error) {
-    const responseObj = generateResponse(error?.message, true);
-    res.status(400).json(responseObj);
-  }
+const getAllUsers = async (req, res) => {
+    try {
+        const InsuranceCollection = db.collection("Insurance"); // Correct collection name
+
+        const Insurance = await InsuranceCollection.find({}).toArray();
+        res.status(200).json(Insurance);
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
 };
 
-// ✅ GET method for login
-const login = async (req, res) => {
-  try {
-    const { email, password } = req.body;
-    const token = await loginUser(email, password);
-    res.setHeader("x-api-token", token);
-
-    const responseObj = generateResponse(null, false);
-    res.status(200).json(responseObj);
-  } catch (error) {
-    const responseObj = generateResponse(error?.message, true);
-    res.status(400).json(responseObj);
-  }
-};
-
-module.exports = { register, login };
+module.exports = { getAllUsers };

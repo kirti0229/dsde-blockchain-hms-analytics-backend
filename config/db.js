@@ -1,20 +1,18 @@
 const { MongoClient } = require("mongodb");
-const { DB_URI } = require("./config");
+require("dotenv").config();
 
-const client = new MongoClient(DB_URI);
-let db;
+const client = new MongoClient(process.env.MONGO_URI);
 
-const connectDB = async () => {
-  try {
-    await client.connect();
-    db = client.db("hms"); // Change to your DB name
-    console.log("MongoDB connected successfully!");
-  } catch (err) {
-    console.error("MongoDB Connection Error:", err);
-    process.exit(1);
-  }
-};
+async function connectDB() {
+    try {
+        await client.connect();
+        console.log("✅ MongoDB Connected...");
+    } catch (error) {
+        console.error("❌ MongoDB Connection Failed!", error);
+        process.exit(1); // Exit if DB connection fails
+    }
+}
 
-const getDB = () => db;
+const db = client.db("blockchainDB"); // Database Name
 
-module.exports = { connectDB, getDB };
+module.exports = { client, db, connectDB };

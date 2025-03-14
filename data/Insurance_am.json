@@ -1,0 +1,4502 @@
+[
+  {
+    "ClaimID": 1,
+    "PatientID": 237,
+    "InsuranceID": 321,
+    "ClaimAmount": 1171.13,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 2,
+    "PatientID": 128,
+    "InsuranceID": 492,
+    "ClaimAmount": 334.12,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 3,
+    "PatientID": 276,
+    "InsuranceID": 244,
+    "ClaimAmount": 6998.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 4,
+    "PatientID": 426,
+    "InsuranceID": 139,
+    "ClaimAmount": 6250.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 5,
+    "PatientID": 279,
+    "InsuranceID": 319,
+    "ClaimAmount": 5949.13,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 6,
+    "PatientID": 144,
+    "InsuranceID": 448,
+    "ClaimAmount": 2733.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 7,
+    "PatientID": 267,
+    "InsuranceID": 97,
+    "ClaimAmount": 6382.16,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 8,
+    "PatientID": 99,
+    "InsuranceID": 81,
+    "ClaimAmount": 5944.58,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 9,
+    "PatientID": 482,
+    "InsuranceID": 16,
+    "ClaimAmount": 1158.03,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 10,
+    "PatientID": 100,
+    "InsuranceID": 410,
+    "ClaimAmount": 1886.55,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 11,
+    "PatientID": 46,
+    "InsuranceID": 105,
+    "ClaimAmount": 8013.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 12,
+    "PatientID": 489,
+    "InsuranceID": 314,
+    "ClaimAmount": 5748.22,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 13,
+    "PatientID": 206,
+    "InsuranceID": 263,
+    "ClaimAmount": 4926.21,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 14,
+    "PatientID": 235,
+    "InsuranceID": 37,
+    "ClaimAmount": 6792.73,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 15,
+    "PatientID": 259,
+    "InsuranceID": 394,
+    "ClaimAmount": 2418.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 16,
+    "PatientID": 170,
+    "InsuranceID": 351,
+    "ClaimAmount": 1431.09,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 17,
+    "PatientID": 96,
+    "InsuranceID": 188,
+    "ClaimAmount": 8755.5,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 18,
+    "PatientID": 333,
+    "InsuranceID": 295,
+    "ClaimAmount": 5263.17,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 19,
+    "PatientID": 462,
+    "InsuranceID": 57,
+    "ClaimAmount": 4041.69,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 20,
+    "PatientID": 156,
+    "InsuranceID": 420,
+    "ClaimAmount": 823.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 21,
+    "PatientID": 129,
+    "InsuranceID": 271,
+    "ClaimAmount": 3287.09,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 22,
+    "PatientID": 464,
+    "InsuranceID": 289,
+    "ClaimAmount": 2385.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 23,
+    "PatientID": 120,
+    "InsuranceID": 469,
+    "ClaimAmount": 6486.55,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 24,
+    "PatientID": 101,
+    "InsuranceID": 208,
+    "ClaimAmount": 2736.14,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 25,
+    "PatientID": 76,
+    "InsuranceID": 329,
+    "ClaimAmount": 6817.23,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 26,
+    "PatientID": 82,
+    "InsuranceID": 64,
+    "ClaimAmount": 7379.48,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 27,
+    "PatientID": 51,
+    "InsuranceID": 13,
+    "ClaimAmount": 6806.44,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 28,
+    "PatientID": 157,
+    "InsuranceID": 437,
+    "ClaimAmount": 2523.4,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 29,
+    "PatientID": 449,
+    "InsuranceID": 418,
+    "ClaimAmount": 3453.12,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 30,
+    "PatientID": 130,
+    "InsuranceID": 29,
+    "ClaimAmount": 8556.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 31,
+    "PatientID": 55,
+    "InsuranceID": 154,
+    "ClaimAmount": 6288.05,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 32,
+    "PatientID": 349,
+    "InsuranceID": 216,
+    "ClaimAmount": 1388.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 33,
+    "PatientID": 398,
+    "InsuranceID": 228,
+    "ClaimAmount": 2889.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 34,
+    "PatientID": 356,
+    "InsuranceID": 244,
+    "ClaimAmount": 3564.31,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 35,
+    "PatientID": 181,
+    "InsuranceID": 241,
+    "ClaimAmount": 7109.91,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 36,
+    "PatientID": 287,
+    "InsuranceID": 451,
+    "ClaimAmount": 4271.57,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 37,
+    "PatientID": 30,
+    "InsuranceID": 165,
+    "ClaimAmount": 9404.73,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 38,
+    "PatientID": 226,
+    "InsuranceID": 139,
+    "ClaimAmount": 4003.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 39,
+    "PatientID": 187,
+    "InsuranceID": 279,
+    "ClaimAmount": 8724.74,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 40,
+    "PatientID": 491,
+    "InsuranceID": 470,
+    "ClaimAmount": 2799.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 41,
+    "PatientID": 403,
+    "InsuranceID": 232,
+    "ClaimAmount": 4611.36,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 42,
+    "PatientID": 62,
+    "InsuranceID": 373,
+    "ClaimAmount": 2171.86,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 43,
+    "PatientID": 364,
+    "InsuranceID": 213,
+    "ClaimAmount": 8253.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 44,
+    "PatientID": 224,
+    "InsuranceID": 328,
+    "ClaimAmount": 9715.9,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 45,
+    "PatientID": 30,
+    "InsuranceID": 313,
+    "ClaimAmount": 1966.83,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 46,
+    "PatientID": 198,
+    "InsuranceID": 494,
+    "ClaimAmount": 8968.74,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 47,
+    "PatientID": 36,
+    "InsuranceID": 483,
+    "ClaimAmount": 1573.73,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 48,
+    "PatientID": 421,
+    "InsuranceID": 147,
+    "ClaimAmount": 6113.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 49,
+    "PatientID": 59,
+    "InsuranceID": 187,
+    "ClaimAmount": 766.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 50,
+    "PatientID": 101,
+    "InsuranceID": 168,
+    "ClaimAmount": 9859.61,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 51,
+    "PatientID": 108,
+    "InsuranceID": 40,
+    "ClaimAmount": 4312.6,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 52,
+    "PatientID": 401,
+    "InsuranceID": 89,
+    "ClaimAmount": 5619.62,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 53,
+    "PatientID": 124,
+    "InsuranceID": 184,
+    "ClaimAmount": 8571.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 54,
+    "PatientID": 147,
+    "InsuranceID": 283,
+    "ClaimAmount": 2600.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 55,
+    "PatientID": 363,
+    "InsuranceID": 231,
+    "ClaimAmount": 9149.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 56,
+    "PatientID": 43,
+    "InsuranceID": 274,
+    "ClaimAmount": 9946.57,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 57,
+    "PatientID": 307,
+    "InsuranceID": 155,
+    "ClaimAmount": 6862.39,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 58,
+    "PatientID": 70,
+    "InsuranceID": 337,
+    "ClaimAmount": 3148.22,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 59,
+    "PatientID": 78,
+    "InsuranceID": 447,
+    "ClaimAmount": 2514.04,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 60,
+    "PatientID": 82,
+    "InsuranceID": 375,
+    "ClaimAmount": 9368.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 61,
+    "PatientID": 372,
+    "InsuranceID": 107,
+    "ClaimAmount": 549.4,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 62,
+    "PatientID": 439,
+    "InsuranceID": 427,
+    "ClaimAmount": 1981.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 63,
+    "PatientID": 297,
+    "InsuranceID": 417,
+    "ClaimAmount": 4949.64,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 64,
+    "PatientID": 293,
+    "InsuranceID": 300,
+    "ClaimAmount": 1319.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 65,
+    "PatientID": 47,
+    "InsuranceID": 445,
+    "ClaimAmount": 3458.15,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 66,
+    "PatientID": 384,
+    "InsuranceID": 424,
+    "ClaimAmount": 8710.49,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 67,
+    "PatientID": 112,
+    "InsuranceID": 214,
+    "ClaimAmount": 1200.79,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 68,
+    "PatientID": 284,
+    "InsuranceID": 387,
+    "ClaimAmount": 215.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 69,
+    "PatientID": 2,
+    "InsuranceID": 134,
+    "ClaimAmount": 9317.96,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 70,
+    "PatientID": 500,
+    "InsuranceID": 200,
+    "ClaimAmount": 3957.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 71,
+    "PatientID": 226,
+    "InsuranceID": 87,
+    "ClaimAmount": 4076.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 72,
+    "PatientID": 498,
+    "InsuranceID": 8,
+    "ClaimAmount": 8932.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 73,
+    "PatientID": 323,
+    "InsuranceID": 112,
+    "ClaimAmount": 2447.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 74,
+    "PatientID": 67,
+    "InsuranceID": 68,
+    "ClaimAmount": 1612.81,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 75,
+    "PatientID": 106,
+    "InsuranceID": 82,
+    "ClaimAmount": 7821.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 76,
+    "PatientID": 78,
+    "InsuranceID": 406,
+    "ClaimAmount": 4208.59,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 77,
+    "PatientID": 312,
+    "InsuranceID": 74,
+    "ClaimAmount": 4312.37,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 78,
+    "PatientID": 272,
+    "InsuranceID": 309,
+    "ClaimAmount": 1170.71,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 79,
+    "PatientID": 295,
+    "InsuranceID": 60,
+    "ClaimAmount": 8593.59,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 80,
+    "PatientID": 418,
+    "InsuranceID": 192,
+    "ClaimAmount": 3936.28,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 81,
+    "PatientID": 461,
+    "InsuranceID": 313,
+    "ClaimAmount": 4734.47,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 82,
+    "PatientID": 392,
+    "InsuranceID": 26,
+    "ClaimAmount": 775.21,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 83,
+    "PatientID": 280,
+    "InsuranceID": 242,
+    "ClaimAmount": 3308.01,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 84,
+    "PatientID": 44,
+    "InsuranceID": 85,
+    "ClaimAmount": 3079.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 85,
+    "PatientID": 463,
+    "InsuranceID": 239,
+    "ClaimAmount": 8972.05,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 86,
+    "PatientID": 435,
+    "InsuranceID": 438,
+    "ClaimAmount": 3003.54,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 87,
+    "PatientID": 486,
+    "InsuranceID": 354,
+    "ClaimAmount": 7739.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 88,
+    "PatientID": 142,
+    "InsuranceID": 25,
+    "ClaimAmount": 288.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 89,
+    "PatientID": 299,
+    "InsuranceID": 60,
+    "ClaimAmount": 269.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 90,
+    "PatientID": 92,
+    "InsuranceID": 23,
+    "ClaimAmount": 8769.4,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 91,
+    "PatientID": 239,
+    "InsuranceID": 174,
+    "ClaimAmount": 7536.37,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 92,
+    "PatientID": 357,
+    "InsuranceID": 415,
+    "ClaimAmount": 6505,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 93,
+    "PatientID": 43,
+    "InsuranceID": 499,
+    "ClaimAmount": 2688.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 94,
+    "PatientID": 151,
+    "InsuranceID": 341,
+    "ClaimAmount": 4819.04,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 95,
+    "PatientID": 217,
+    "InsuranceID": 69,
+    "ClaimAmount": 3845.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 96,
+    "PatientID": 138,
+    "InsuranceID": 6,
+    "ClaimAmount": 1740.78,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 97,
+    "PatientID": 393,
+    "InsuranceID": 256,
+    "ClaimAmount": 1715.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 98,
+    "PatientID": 146,
+    "InsuranceID": 427,
+    "ClaimAmount": 989.23,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 99,
+    "PatientID": 339,
+    "InsuranceID": 291,
+    "ClaimAmount": 9300.87,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 100,
+    "PatientID": 317,
+    "InsuranceID": 489,
+    "ClaimAmount": 9629.9,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 101,
+    "PatientID": 283,
+    "InsuranceID": 468,
+    "ClaimAmount": 7033.14,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 102,
+    "PatientID": 120,
+    "InsuranceID": 87,
+    "ClaimAmount": 4016.07,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 103,
+    "PatientID": 232,
+    "InsuranceID": 303,
+    "ClaimAmount": 2366.31,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 104,
+    "PatientID": 46,
+    "InsuranceID": 244,
+    "ClaimAmount": 7130.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 105,
+    "PatientID": 199,
+    "InsuranceID": 189,
+    "ClaimAmount": 9388.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 106,
+    "PatientID": 456,
+    "InsuranceID": 66,
+    "ClaimAmount": 770.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 107,
+    "PatientID": 373,
+    "InsuranceID": 407,
+    "ClaimAmount": 6491.69,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 108,
+    "PatientID": 381,
+    "InsuranceID": 373,
+    "ClaimAmount": 1427.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 109,
+    "PatientID": 333,
+    "InsuranceID": 276,
+    "ClaimAmount": 944.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 110,
+    "PatientID": 78,
+    "InsuranceID": 318,
+    "ClaimAmount": 4371.62,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 111,
+    "PatientID": 131,
+    "InsuranceID": 309,
+    "ClaimAmount": 4310.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 112,
+    "PatientID": 457,
+    "InsuranceID": 266,
+    "ClaimAmount": 5477.96,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 113,
+    "PatientID": 189,
+    "InsuranceID": 110,
+    "ClaimAmount": 2700.69,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 114,
+    "PatientID": 422,
+    "InsuranceID": 187,
+    "ClaimAmount": 2667.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 115,
+    "PatientID": 107,
+    "InsuranceID": 35,
+    "ClaimAmount": 8134.29,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 116,
+    "PatientID": 437,
+    "InsuranceID": 236,
+    "ClaimAmount": 765.26,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 117,
+    "PatientID": 124,
+    "InsuranceID": 255,
+    "ClaimAmount": 5695.15,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 118,
+    "PatientID": 219,
+    "InsuranceID": 416,
+    "ClaimAmount": 9009.67,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 119,
+    "PatientID": 222,
+    "InsuranceID": 169,
+    "ClaimAmount": 5207.49,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 120,
+    "PatientID": 267,
+    "InsuranceID": 401,
+    "ClaimAmount": 1985.62,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 121,
+    "PatientID": 251,
+    "InsuranceID": 324,
+    "ClaimAmount": 7108.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 122,
+    "PatientID": 80,
+    "InsuranceID": 109,
+    "ClaimAmount": 9528.16,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 123,
+    "PatientID": 341,
+    "InsuranceID": 250,
+    "ClaimAmount": 6971.59,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 124,
+    "PatientID": 257,
+    "InsuranceID": 31,
+    "ClaimAmount": 8727.83,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 125,
+    "PatientID": 297,
+    "InsuranceID": 468,
+    "ClaimAmount": 8055.38,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 126,
+    "PatientID": 230,
+    "InsuranceID": 221,
+    "ClaimAmount": 1139.22,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 127,
+    "PatientID": 250,
+    "InsuranceID": 251,
+    "ClaimAmount": 1628.93,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 128,
+    "PatientID": 240,
+    "InsuranceID": 192,
+    "ClaimAmount": 3787.54,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 129,
+    "PatientID": 269,
+    "InsuranceID": 191,
+    "ClaimAmount": 6608.59,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 130,
+    "PatientID": 62,
+    "InsuranceID": 25,
+    "ClaimAmount": 8140.44,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 131,
+    "PatientID": 408,
+    "InsuranceID": 307,
+    "ClaimAmount": 5445.86,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 132,
+    "PatientID": 175,
+    "InsuranceID": 357,
+    "ClaimAmount": 8450.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 133,
+    "PatientID": 19,
+    "InsuranceID": 411,
+    "ClaimAmount": 7732.47,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 134,
+    "PatientID": 33,
+    "InsuranceID": 275,
+    "ClaimAmount": 761.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 135,
+    "PatientID": 90,
+    "InsuranceID": 488,
+    "ClaimAmount": 6697.03,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 136,
+    "PatientID": 203,
+    "InsuranceID": 209,
+    "ClaimAmount": 3420.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 137,
+    "PatientID": 420,
+    "InsuranceID": 390,
+    "ClaimAmount": 5836,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 138,
+    "PatientID": 55,
+    "InsuranceID": 249,
+    "ClaimAmount": 9953.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 139,
+    "PatientID": 364,
+    "InsuranceID": 319,
+    "ClaimAmount": 1111.22,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 140,
+    "PatientID": 460,
+    "InsuranceID": 416,
+    "ClaimAmount": 7256.54,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 141,
+    "PatientID": 343,
+    "InsuranceID": 468,
+    "ClaimAmount": 5611.14,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 142,
+    "PatientID": 171,
+    "InsuranceID": 453,
+    "ClaimAmount": 6374.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 143,
+    "PatientID": 24,
+    "InsuranceID": 213,
+    "ClaimAmount": 3250.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 144,
+    "PatientID": 488,
+    "InsuranceID": 167,
+    "ClaimAmount": 3667.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 145,
+    "PatientID": 41,
+    "InsuranceID": 397,
+    "ClaimAmount": 7351.53,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 146,
+    "PatientID": 191,
+    "InsuranceID": 494,
+    "ClaimAmount": 5701.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 147,
+    "PatientID": 61,
+    "InsuranceID": 291,
+    "ClaimAmount": 8535.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 148,
+    "PatientID": 325,
+    "InsuranceID": 190,
+    "ClaimAmount": 8467.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 149,
+    "PatientID": 279,
+    "InsuranceID": 7,
+    "ClaimAmount": 2956.47,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 150,
+    "PatientID": 238,
+    "InsuranceID": 110,
+    "ClaimAmount": 6948.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 151,
+    "PatientID": 165,
+    "InsuranceID": 297,
+    "ClaimAmount": 2374.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 152,
+    "PatientID": 257,
+    "InsuranceID": 174,
+    "ClaimAmount": 1293.46,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 153,
+    "PatientID": 61,
+    "InsuranceID": 394,
+    "ClaimAmount": 7404.41,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 154,
+    "PatientID": 425,
+    "InsuranceID": 75,
+    "ClaimAmount": 3268.46,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 155,
+    "PatientID": 191,
+    "InsuranceID": 380,
+    "ClaimAmount": 8467.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 156,
+    "PatientID": 278,
+    "InsuranceID": 373,
+    "ClaimAmount": 9059.46,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 157,
+    "PatientID": 199,
+    "InsuranceID": 350,
+    "ClaimAmount": 9885.91,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 158,
+    "PatientID": 345,
+    "InsuranceID": 149,
+    "ClaimAmount": 4048.67,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 159,
+    "PatientID": 193,
+    "InsuranceID": 65,
+    "ClaimAmount": 7825.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 160,
+    "PatientID": 295,
+    "InsuranceID": 178,
+    "ClaimAmount": 2989.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 161,
+    "PatientID": 83,
+    "InsuranceID": 446,
+    "ClaimAmount": 7953.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 162,
+    "PatientID": 215,
+    "InsuranceID": 498,
+    "ClaimAmount": 2530.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 163,
+    "PatientID": 330,
+    "InsuranceID": 435,
+    "ClaimAmount": 5480.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 164,
+    "PatientID": 439,
+    "InsuranceID": 320,
+    "ClaimAmount": 7530.28,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 165,
+    "PatientID": 201,
+    "InsuranceID": 29,
+    "ClaimAmount": 1858.71,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 166,
+    "PatientID": 382,
+    "InsuranceID": 470,
+    "ClaimAmount": 4044.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:07"
+  },
+  {
+    "ClaimID": 167,
+    "PatientID": 96,
+    "InsuranceID": 63,
+    "ClaimAmount": 3564.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 168,
+    "PatientID": 285,
+    "InsuranceID": 407,
+    "ClaimAmount": 3215.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 169,
+    "PatientID": 20,
+    "InsuranceID": 106,
+    "ClaimAmount": 1490.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 170,
+    "PatientID": 157,
+    "InsuranceID": 301,
+    "ClaimAmount": 5101.22,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 171,
+    "PatientID": 111,
+    "InsuranceID": 171,
+    "ClaimAmount": 4854.65,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 172,
+    "PatientID": 276,
+    "InsuranceID": 407,
+    "ClaimAmount": 621.69,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 173,
+    "PatientID": 297,
+    "InsuranceID": 29,
+    "ClaimAmount": 8054.62,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 174,
+    "PatientID": 11,
+    "InsuranceID": 309,
+    "ClaimAmount": 4965.44,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 175,
+    "PatientID": 437,
+    "InsuranceID": 173,
+    "ClaimAmount": 5619.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 176,
+    "PatientID": 100,
+    "InsuranceID": 341,
+    "ClaimAmount": 1641.67,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 177,
+    "PatientID": 424,
+    "InsuranceID": 412,
+    "ClaimAmount": 2968.32,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 178,
+    "PatientID": 30,
+    "InsuranceID": 467,
+    "ClaimAmount": 4570.88,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 179,
+    "PatientID": 125,
+    "InsuranceID": 104,
+    "ClaimAmount": 3015.41,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 180,
+    "PatientID": 145,
+    "InsuranceID": 118,
+    "ClaimAmount": 2668.15,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 181,
+    "PatientID": 98,
+    "InsuranceID": 52,
+    "ClaimAmount": 3019.94,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 182,
+    "PatientID": 373,
+    "InsuranceID": 496,
+    "ClaimAmount": 1130.74,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 183,
+    "PatientID": 232,
+    "InsuranceID": 172,
+    "ClaimAmount": 4554.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 184,
+    "PatientID": 120,
+    "InsuranceID": 469,
+    "ClaimAmount": 1160.37,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 185,
+    "PatientID": 176,
+    "InsuranceID": 473,
+    "ClaimAmount": 2547.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 186,
+    "PatientID": 12,
+    "InsuranceID": 35,
+    "ClaimAmount": 9933.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 187,
+    "PatientID": 453,
+    "InsuranceID": 349,
+    "ClaimAmount": 1472.6,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 188,
+    "PatientID": 294,
+    "InsuranceID": 34,
+    "ClaimAmount": 6365.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 189,
+    "PatientID": 56,
+    "InsuranceID": 57,
+    "ClaimAmount": 7132.08,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 190,
+    "PatientID": 133,
+    "InsuranceID": 75,
+    "ClaimAmount": 3220.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 191,
+    "PatientID": 227,
+    "InsuranceID": 223,
+    "ClaimAmount": 6973.96,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 192,
+    "PatientID": 462,
+    "InsuranceID": 214,
+    "ClaimAmount": 5416.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 193,
+    "PatientID": 318,
+    "InsuranceID": 56,
+    "ClaimAmount": 3455.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 194,
+    "PatientID": 235,
+    "InsuranceID": 365,
+    "ClaimAmount": 5486.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 195,
+    "PatientID": 417,
+    "InsuranceID": 387,
+    "ClaimAmount": 329.18,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 196,
+    "PatientID": 426,
+    "InsuranceID": 331,
+    "ClaimAmount": 621.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 197,
+    "PatientID": 94,
+    "InsuranceID": 425,
+    "ClaimAmount": 659.78,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 198,
+    "PatientID": 219,
+    "InsuranceID": 322,
+    "ClaimAmount": 6314.16,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 199,
+    "PatientID": 436,
+    "InsuranceID": 350,
+    "ClaimAmount": 4745.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 200,
+    "PatientID": 442,
+    "InsuranceID": 131,
+    "ClaimAmount": 1470.82,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 201,
+    "PatientID": 408,
+    "InsuranceID": 301,
+    "ClaimAmount": 2874.52,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 202,
+    "PatientID": 342,
+    "InsuranceID": 131,
+    "ClaimAmount": 2592.23,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 203,
+    "PatientID": 154,
+    "InsuranceID": 427,
+    "ClaimAmount": 1483.97,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 204,
+    "PatientID": 204,
+    "InsuranceID": 206,
+    "ClaimAmount": 6971.58,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 205,
+    "PatientID": 163,
+    "InsuranceID": 12,
+    "ClaimAmount": 2826.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 206,
+    "PatientID": 159,
+    "InsuranceID": 190,
+    "ClaimAmount": 6469.14,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 207,
+    "PatientID": 403,
+    "InsuranceID": 437,
+    "ClaimAmount": 4443.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 208,
+    "PatientID": 255,
+    "InsuranceID": 438,
+    "ClaimAmount": 2523.82,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 209,
+    "PatientID": 303,
+    "InsuranceID": 474,
+    "ClaimAmount": 8859,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 210,
+    "PatientID": 454,
+    "InsuranceID": 257,
+    "ClaimAmount": 8750.97,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 211,
+    "PatientID": 221,
+    "InsuranceID": 317,
+    "ClaimAmount": 9460.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 212,
+    "PatientID": 449,
+    "InsuranceID": 331,
+    "ClaimAmount": 3536.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 213,
+    "PatientID": 464,
+    "InsuranceID": 18,
+    "ClaimAmount": 4397.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 214,
+    "PatientID": 417,
+    "InsuranceID": 254,
+    "ClaimAmount": 1735.18,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 215,
+    "PatientID": 139,
+    "InsuranceID": 442,
+    "ClaimAmount": 3079.04,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 216,
+    "PatientID": 34,
+    "InsuranceID": 26,
+    "ClaimAmount": 639.31,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 217,
+    "PatientID": 181,
+    "InsuranceID": 455,
+    "ClaimAmount": 547.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 218,
+    "PatientID": 388,
+    "InsuranceID": 115,
+    "ClaimAmount": 3285.54,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 219,
+    "PatientID": 366,
+    "InsuranceID": 357,
+    "ClaimAmount": 8834.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 220,
+    "PatientID": 29,
+    "InsuranceID": 101,
+    "ClaimAmount": 1810.26,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 221,
+    "PatientID": 424,
+    "InsuranceID": 83,
+    "ClaimAmount": 874.6,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 222,
+    "PatientID": 189,
+    "InsuranceID": 304,
+    "ClaimAmount": 1214.75,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 223,
+    "PatientID": 34,
+    "InsuranceID": 313,
+    "ClaimAmount": 6099.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 224,
+    "PatientID": 387,
+    "InsuranceID": 146,
+    "ClaimAmount": 4546.69,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 225,
+    "PatientID": 417,
+    "InsuranceID": 284,
+    "ClaimAmount": 5495.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 226,
+    "PatientID": 205,
+    "InsuranceID": 364,
+    "ClaimAmount": 2291.67,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 227,
+    "PatientID": 437,
+    "InsuranceID": 431,
+    "ClaimAmount": 8511.19,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 228,
+    "PatientID": 21,
+    "InsuranceID": 331,
+    "ClaimAmount": 1937.58,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 229,
+    "PatientID": 223,
+    "InsuranceID": 362,
+    "ClaimAmount": 308.05,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 230,
+    "PatientID": 436,
+    "InsuranceID": 165,
+    "ClaimAmount": 1888.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 231,
+    "PatientID": 49,
+    "InsuranceID": 455,
+    "ClaimAmount": 6669.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 232,
+    "PatientID": 281,
+    "InsuranceID": 106,
+    "ClaimAmount": 1108.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 233,
+    "PatientID": 26,
+    "InsuranceID": 105,
+    "ClaimAmount": 8477.54,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 234,
+    "PatientID": 335,
+    "InsuranceID": 359,
+    "ClaimAmount": 2667.5,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 235,
+    "PatientID": 332,
+    "InsuranceID": 364,
+    "ClaimAmount": 2185.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 236,
+    "PatientID": 150,
+    "InsuranceID": 164,
+    "ClaimAmount": 2711.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 237,
+    "PatientID": 56,
+    "InsuranceID": 260,
+    "ClaimAmount": 9762.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 238,
+    "PatientID": 276,
+    "InsuranceID": 388,
+    "ClaimAmount": 7636.19,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 239,
+    "PatientID": 475,
+    "InsuranceID": 165,
+    "ClaimAmount": 7761.89,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 240,
+    "PatientID": 450,
+    "InsuranceID": 361,
+    "ClaimAmount": 3310.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 241,
+    "PatientID": 27,
+    "InsuranceID": 395,
+    "ClaimAmount": 7068.94,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 242,
+    "PatientID": 281,
+    "InsuranceID": 159,
+    "ClaimAmount": 9851.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 243,
+    "PatientID": 266,
+    "InsuranceID": 60,
+    "ClaimAmount": 6989.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 244,
+    "PatientID": 131,
+    "InsuranceID": 98,
+    "ClaimAmount": 2238.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 245,
+    "PatientID": 264,
+    "InsuranceID": 468,
+    "ClaimAmount": 9922.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 246,
+    "PatientID": 55,
+    "InsuranceID": 107,
+    "ClaimAmount": 541.74,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 247,
+    "PatientID": 282,
+    "InsuranceID": 91,
+    "ClaimAmount": 4013.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 248,
+    "PatientID": 30,
+    "InsuranceID": 266,
+    "ClaimAmount": 7761.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 249,
+    "PatientID": 146,
+    "InsuranceID": 274,
+    "ClaimAmount": 6212.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 250,
+    "PatientID": 22,
+    "InsuranceID": 426,
+    "ClaimAmount": 909,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 251,
+    "PatientID": 488,
+    "InsuranceID": 471,
+    "ClaimAmount": 2188.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 252,
+    "PatientID": 364,
+    "InsuranceID": 430,
+    "ClaimAmount": 1486.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 253,
+    "PatientID": 477,
+    "InsuranceID": 447,
+    "ClaimAmount": 4183.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 254,
+    "PatientID": 285,
+    "InsuranceID": 246,
+    "ClaimAmount": 6015.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 255,
+    "PatientID": 365,
+    "InsuranceID": 221,
+    "ClaimAmount": 2572.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 256,
+    "PatientID": 430,
+    "InsuranceID": 146,
+    "ClaimAmount": 1951.25,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 257,
+    "PatientID": 181,
+    "InsuranceID": 314,
+    "ClaimAmount": 7622.91,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 258,
+    "PatientID": 307,
+    "InsuranceID": 355,
+    "ClaimAmount": 7106.93,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 259,
+    "PatientID": 294,
+    "InsuranceID": 291,
+    "ClaimAmount": 9965.97,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 260,
+    "PatientID": 372,
+    "InsuranceID": 419,
+    "ClaimAmount": 1302.13,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 261,
+    "PatientID": 183,
+    "InsuranceID": 350,
+    "ClaimAmount": 3991.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 262,
+    "PatientID": 451,
+    "InsuranceID": 53,
+    "ClaimAmount": 6450.1,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 263,
+    "PatientID": 484,
+    "InsuranceID": 253,
+    "ClaimAmount": 9603.05,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 264,
+    "PatientID": 294,
+    "InsuranceID": 16,
+    "ClaimAmount": 5962.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 265,
+    "PatientID": 109,
+    "InsuranceID": 357,
+    "ClaimAmount": 9510.25,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 266,
+    "PatientID": 252,
+    "InsuranceID": 211,
+    "ClaimAmount": 4135.72,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 267,
+    "PatientID": 402,
+    "InsuranceID": 330,
+    "ClaimAmount": 8046.88,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 268,
+    "PatientID": 382,
+    "InsuranceID": 20,
+    "ClaimAmount": 4708.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 269,
+    "PatientID": 164,
+    "InsuranceID": 144,
+    "ClaimAmount": 1631.17,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 270,
+    "PatientID": 292,
+    "InsuranceID": 328,
+    "ClaimAmount": 7696.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 271,
+    "PatientID": 65,
+    "InsuranceID": 391,
+    "ClaimAmount": 8226.15,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 272,
+    "PatientID": 278,
+    "InsuranceID": 21,
+    "ClaimAmount": 7337.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 273,
+    "PatientID": 138,
+    "InsuranceID": 357,
+    "ClaimAmount": 5814.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 274,
+    "PatientID": 490,
+    "InsuranceID": 15,
+    "ClaimAmount": 4785.9,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 275,
+    "PatientID": 152,
+    "InsuranceID": 368,
+    "ClaimAmount": 567.39,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 276,
+    "PatientID": 12,
+    "InsuranceID": 326,
+    "ClaimAmount": 9098.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 277,
+    "PatientID": 132,
+    "InsuranceID": 126,
+    "ClaimAmount": 759.22,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 278,
+    "PatientID": 238,
+    "InsuranceID": 439,
+    "ClaimAmount": 758.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 279,
+    "PatientID": 417,
+    "InsuranceID": 444,
+    "ClaimAmount": 894.06,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 280,
+    "PatientID": 32,
+    "InsuranceID": 251,
+    "ClaimAmount": 2615.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 281,
+    "PatientID": 65,
+    "InsuranceID": 333,
+    "ClaimAmount": 7276.08,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 282,
+    "PatientID": 128,
+    "InsuranceID": 112,
+    "ClaimAmount": 4472.26,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 283,
+    "PatientID": 146,
+    "InsuranceID": 243,
+    "ClaimAmount": 7121.44,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 284,
+    "PatientID": 475,
+    "InsuranceID": 13,
+    "ClaimAmount": 1902.93,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 285,
+    "PatientID": 124,
+    "InsuranceID": 319,
+    "ClaimAmount": 4744.38,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 286,
+    "PatientID": 250,
+    "InsuranceID": 382,
+    "ClaimAmount": 4372.31,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 287,
+    "PatientID": 39,
+    "InsuranceID": 235,
+    "ClaimAmount": 4694.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 288,
+    "PatientID": 114,
+    "InsuranceID": 423,
+    "ClaimAmount": 1605.09,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 289,
+    "PatientID": 16,
+    "InsuranceID": 217,
+    "ClaimAmount": 3123.31,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 290,
+    "PatientID": 121,
+    "InsuranceID": 237,
+    "ClaimAmount": 2537.83,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 291,
+    "PatientID": 164,
+    "InsuranceID": 490,
+    "ClaimAmount": 2841,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 292,
+    "PatientID": 288,
+    "InsuranceID": 20,
+    "ClaimAmount": 9036.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 293,
+    "PatientID": 97,
+    "InsuranceID": 395,
+    "ClaimAmount": 8031.59,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 294,
+    "PatientID": 356,
+    "InsuranceID": 445,
+    "ClaimAmount": 5122.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 295,
+    "PatientID": 233,
+    "InsuranceID": 34,
+    "ClaimAmount": 1628.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 296,
+    "PatientID": 230,
+    "InsuranceID": 101,
+    "ClaimAmount": 5520.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 297,
+    "PatientID": 5,
+    "InsuranceID": 8,
+    "ClaimAmount": 7098.9,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 298,
+    "PatientID": 403,
+    "InsuranceID": 421,
+    "ClaimAmount": 265.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 299,
+    "PatientID": 44,
+    "InsuranceID": 454,
+    "ClaimAmount": 5738.07,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 300,
+    "PatientID": 475,
+    "InsuranceID": 332,
+    "ClaimAmount": 7768.57,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 301,
+    "PatientID": 476,
+    "InsuranceID": 425,
+    "ClaimAmount": 6974.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 302,
+    "PatientID": 305,
+    "InsuranceID": 375,
+    "ClaimAmount": 4944.74,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 303,
+    "PatientID": 7,
+    "InsuranceID": 352,
+    "ClaimAmount": 9932.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 304,
+    "PatientID": 470,
+    "InsuranceID": 199,
+    "ClaimAmount": 6740.6,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 305,
+    "PatientID": 144,
+    "InsuranceID": 198,
+    "ClaimAmount": 6045.69,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 306,
+    "PatientID": 260,
+    "InsuranceID": 277,
+    "ClaimAmount": 2749.77,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 307,
+    "PatientID": 279,
+    "InsuranceID": 247,
+    "ClaimAmount": 996.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 308,
+    "PatientID": 344,
+    "InsuranceID": 351,
+    "ClaimAmount": 3979.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 309,
+    "PatientID": 242,
+    "InsuranceID": 420,
+    "ClaimAmount": 6755.96,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 310,
+    "PatientID": 478,
+    "InsuranceID": 153,
+    "ClaimAmount": 7461.52,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 311,
+    "PatientID": 217,
+    "InsuranceID": 68,
+    "ClaimAmount": 2350.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 312,
+    "PatientID": 279,
+    "InsuranceID": 107,
+    "ClaimAmount": 1676.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 313,
+    "PatientID": 110,
+    "InsuranceID": 433,
+    "ClaimAmount": 6634.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 314,
+    "PatientID": 287,
+    "InsuranceID": 133,
+    "ClaimAmount": 6512.96,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 315,
+    "PatientID": 460,
+    "InsuranceID": 106,
+    "ClaimAmount": 2501.19,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 316,
+    "PatientID": 153,
+    "InsuranceID": 467,
+    "ClaimAmount": 5077.11,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 317,
+    "PatientID": 150,
+    "InsuranceID": 292,
+    "ClaimAmount": 7263.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 318,
+    "PatientID": 341,
+    "InsuranceID": 70,
+    "ClaimAmount": 1789.93,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 319,
+    "PatientID": 70,
+    "InsuranceID": 196,
+    "ClaimAmount": 673.38,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 320,
+    "PatientID": 309,
+    "InsuranceID": 23,
+    "ClaimAmount": 9612.88,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 321,
+    "PatientID": 202,
+    "InsuranceID": 258,
+    "ClaimAmount": 8053.1,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 322,
+    "PatientID": 34,
+    "InsuranceID": 385,
+    "ClaimAmount": 9501.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 323,
+    "PatientID": 258,
+    "InsuranceID": 346,
+    "ClaimAmount": 3246.39,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 324,
+    "PatientID": 117,
+    "InsuranceID": 108,
+    "ClaimAmount": 7681.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 325,
+    "PatientID": 202,
+    "InsuranceID": 314,
+    "ClaimAmount": 3706.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 326,
+    "PatientID": 11,
+    "InsuranceID": 275,
+    "ClaimAmount": 8336.97,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 327,
+    "PatientID": 444,
+    "InsuranceID": 279,
+    "ClaimAmount": 6088.89,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 328,
+    "PatientID": 61,
+    "InsuranceID": 257,
+    "ClaimAmount": 6459.26,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 329,
+    "PatientID": 450,
+    "InsuranceID": 61,
+    "ClaimAmount": 4577.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 330,
+    "PatientID": 27,
+    "InsuranceID": 377,
+    "ClaimAmount": 2024.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 331,
+    "PatientID": 24,
+    "InsuranceID": 23,
+    "ClaimAmount": 5949.67,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 332,
+    "PatientID": 367,
+    "InsuranceID": 177,
+    "ClaimAmount": 8720.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 333,
+    "PatientID": 28,
+    "InsuranceID": 497,
+    "ClaimAmount": 9532.06,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 334,
+    "PatientID": 360,
+    "InsuranceID": 24,
+    "ClaimAmount": 2276.5,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 335,
+    "PatientID": 250,
+    "InsuranceID": 304,
+    "ClaimAmount": 6824.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 336,
+    "PatientID": 265,
+    "InsuranceID": 413,
+    "ClaimAmount": 8693.36,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 337,
+    "PatientID": 53,
+    "InsuranceID": 413,
+    "ClaimAmount": 8624.07,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 338,
+    "PatientID": 173,
+    "InsuranceID": 364,
+    "ClaimAmount": 8225.65,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 339,
+    "PatientID": 51,
+    "InsuranceID": 132,
+    "ClaimAmount": 6132.86,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 340,
+    "PatientID": 118,
+    "InsuranceID": 258,
+    "ClaimAmount": 6469.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 341,
+    "PatientID": 435,
+    "InsuranceID": 340,
+    "ClaimAmount": 9056.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 342,
+    "PatientID": 231,
+    "InsuranceID": 51,
+    "ClaimAmount": 2673.81,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 343,
+    "PatientID": 31,
+    "InsuranceID": 197,
+    "ClaimAmount": 8358.1,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 344,
+    "PatientID": 400,
+    "InsuranceID": 319,
+    "ClaimAmount": 5401.52,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 345,
+    "PatientID": 40,
+    "InsuranceID": 290,
+    "ClaimAmount": 253.89,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 346,
+    "PatientID": 344,
+    "InsuranceID": 315,
+    "ClaimAmount": 6707.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 347,
+    "PatientID": 151,
+    "InsuranceID": 56,
+    "ClaimAmount": 5724.4,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 348,
+    "PatientID": 133,
+    "InsuranceID": 259,
+    "ClaimAmount": 2853.39,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 349,
+    "PatientID": 132,
+    "InsuranceID": 61,
+    "ClaimAmount": 7881.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 350,
+    "PatientID": 454,
+    "InsuranceID": 142,
+    "ClaimAmount": 5069.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 351,
+    "PatientID": 98,
+    "InsuranceID": 121,
+    "ClaimAmount": 7598.61,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 352,
+    "PatientID": 181,
+    "InsuranceID": 313,
+    "ClaimAmount": 523.1,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 353,
+    "PatientID": 162,
+    "InsuranceID": 212,
+    "ClaimAmount": 326.28,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 354,
+    "PatientID": 473,
+    "InsuranceID": 329,
+    "ClaimAmount": 7849.38,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 355,
+    "PatientID": 111,
+    "InsuranceID": 172,
+    "ClaimAmount": 9407.43,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 356,
+    "PatientID": 404,
+    "InsuranceID": 139,
+    "ClaimAmount": 5909.25,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 357,
+    "PatientID": 210,
+    "InsuranceID": 284,
+    "ClaimAmount": 5559.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 358,
+    "PatientID": 34,
+    "InsuranceID": 164,
+    "ClaimAmount": 8844.81,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 359,
+    "PatientID": 477,
+    "InsuranceID": 476,
+    "ClaimAmount": 5520.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 360,
+    "PatientID": 274,
+    "InsuranceID": 240,
+    "ClaimAmount": 8162.89,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 361,
+    "PatientID": 332,
+    "InsuranceID": 300,
+    "ClaimAmount": 7136.74,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 362,
+    "PatientID": 422,
+    "InsuranceID": 65,
+    "ClaimAmount": 8584.39,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 363,
+    "PatientID": 381,
+    "InsuranceID": 64,
+    "ClaimAmount": 9417.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 364,
+    "PatientID": 407,
+    "InsuranceID": 348,
+    "ClaimAmount": 1446.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 365,
+    "PatientID": 189,
+    "InsuranceID": 189,
+    "ClaimAmount": 987.21,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 366,
+    "PatientID": 257,
+    "InsuranceID": 269,
+    "ClaimAmount": 890.16,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 367,
+    "PatientID": 46,
+    "InsuranceID": 422,
+    "ClaimAmount": 2706.59,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 368,
+    "PatientID": 354,
+    "InsuranceID": 372,
+    "ClaimAmount": 5542.41,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 369,
+    "PatientID": 361,
+    "InsuranceID": 26,
+    "ClaimAmount": 5721.72,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 370,
+    "PatientID": 330,
+    "InsuranceID": 132,
+    "ClaimAmount": 8375.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 371,
+    "PatientID": 198,
+    "InsuranceID": 229,
+    "ClaimAmount": 9551.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 372,
+    "PatientID": 306,
+    "InsuranceID": 4,
+    "ClaimAmount": 3868.64,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 373,
+    "PatientID": 235,
+    "InsuranceID": 370,
+    "ClaimAmount": 8497.6,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 374,
+    "PatientID": 201,
+    "InsuranceID": 345,
+    "ClaimAmount": 4897.53,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 375,
+    "PatientID": 69,
+    "InsuranceID": 15,
+    "ClaimAmount": 7610.19,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 376,
+    "PatientID": 238,
+    "InsuranceID": 365,
+    "ClaimAmount": 8549.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 377,
+    "PatientID": 70,
+    "InsuranceID": 244,
+    "ClaimAmount": 646.61,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 378,
+    "PatientID": 245,
+    "InsuranceID": 488,
+    "ClaimAmount": 755.19,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 379,
+    "PatientID": 383,
+    "InsuranceID": 284,
+    "ClaimAmount": 2772.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 380,
+    "PatientID": 154,
+    "InsuranceID": 156,
+    "ClaimAmount": 4018.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 381,
+    "PatientID": 237,
+    "InsuranceID": 377,
+    "ClaimAmount": 2341.86,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 382,
+    "PatientID": 393,
+    "InsuranceID": 51,
+    "ClaimAmount": 1975.28,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 383,
+    "PatientID": 297,
+    "InsuranceID": 379,
+    "ClaimAmount": 8508.58,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 384,
+    "PatientID": 487,
+    "InsuranceID": 65,
+    "ClaimAmount": 9682.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 385,
+    "PatientID": 105,
+    "InsuranceID": 246,
+    "ClaimAmount": 9191.15,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 386,
+    "PatientID": 242,
+    "InsuranceID": 201,
+    "ClaimAmount": 9678.47,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 387,
+    "PatientID": 238,
+    "InsuranceID": 305,
+    "ClaimAmount": 7007.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 388,
+    "PatientID": 168,
+    "InsuranceID": 356,
+    "ClaimAmount": 4900.78,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:08"
+  },
+  {
+    "ClaimID": 389,
+    "PatientID": 196,
+    "InsuranceID": 119,
+    "ClaimAmount": 8077.02,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 390,
+    "PatientID": 353,
+    "InsuranceID": 128,
+    "ClaimAmount": 3470.6,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 391,
+    "PatientID": 476,
+    "InsuranceID": 435,
+    "ClaimAmount": 6573.78,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 392,
+    "PatientID": 201,
+    "InsuranceID": 153,
+    "ClaimAmount": 9090.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 393,
+    "PatientID": 320,
+    "InsuranceID": 350,
+    "ClaimAmount": 5661.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 394,
+    "PatientID": 2,
+    "InsuranceID": 44,
+    "ClaimAmount": 3163.14,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 395,
+    "PatientID": 116,
+    "InsuranceID": 310,
+    "ClaimAmount": 2906.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 396,
+    "PatientID": 151,
+    "InsuranceID": 373,
+    "ClaimAmount": 823.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 397,
+    "PatientID": 68,
+    "InsuranceID": 169,
+    "ClaimAmount": 9783.57,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 398,
+    "PatientID": 472,
+    "InsuranceID": 452,
+    "ClaimAmount": 626.93,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 399,
+    "PatientID": 386,
+    "InsuranceID": 53,
+    "ClaimAmount": 7043.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 400,
+    "PatientID": 492,
+    "InsuranceID": 289,
+    "ClaimAmount": 5934.67,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 401,
+    "PatientID": 155,
+    "InsuranceID": 76,
+    "ClaimAmount": 8948.76,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 402,
+    "PatientID": 229,
+    "InsuranceID": 489,
+    "ClaimAmount": 8309.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 403,
+    "PatientID": 17,
+    "InsuranceID": 309,
+    "ClaimAmount": 1776.62,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 404,
+    "PatientID": 384,
+    "InsuranceID": 29,
+    "ClaimAmount": 6275.56,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 405,
+    "PatientID": 229,
+    "InsuranceID": 387,
+    "ClaimAmount": 7816.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 406,
+    "PatientID": 420,
+    "InsuranceID": 281,
+    "ClaimAmount": 8791.73,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 407,
+    "PatientID": 324,
+    "InsuranceID": 105,
+    "ClaimAmount": 778.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 408,
+    "PatientID": 459,
+    "InsuranceID": 137,
+    "ClaimAmount": 5558.39,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 409,
+    "PatientID": 2,
+    "InsuranceID": 95,
+    "ClaimAmount": 5848.82,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 410,
+    "PatientID": 424,
+    "InsuranceID": 334,
+    "ClaimAmount": 4271.46,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 411,
+    "PatientID": 37,
+    "InsuranceID": 318,
+    "ClaimAmount": 9331.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 412,
+    "PatientID": 74,
+    "InsuranceID": 390,
+    "ClaimAmount": 2152.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 413,
+    "PatientID": 292,
+    "InsuranceID": 419,
+    "ClaimAmount": 2137.95,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 414,
+    "PatientID": 129,
+    "InsuranceID": 68,
+    "ClaimAmount": 6366.19,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 415,
+    "PatientID": 111,
+    "InsuranceID": 457,
+    "ClaimAmount": 2920.05,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 416,
+    "PatientID": 316,
+    "InsuranceID": 172,
+    "ClaimAmount": 2109.23,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 417,
+    "PatientID": 426,
+    "InsuranceID": 134,
+    "ClaimAmount": 1072.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 418,
+    "PatientID": 306,
+    "InsuranceID": 387,
+    "ClaimAmount": 2555.94,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 419,
+    "PatientID": 150,
+    "InsuranceID": 216,
+    "ClaimAmount": 8388.09,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 420,
+    "PatientID": 238,
+    "InsuranceID": 78,
+    "ClaimAmount": 4527.68,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 421,
+    "PatientID": 419,
+    "InsuranceID": 408,
+    "ClaimAmount": 7382.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 422,
+    "PatientID": 285,
+    "InsuranceID": 10,
+    "ClaimAmount": 8924.98,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 423,
+    "PatientID": 77,
+    "InsuranceID": 329,
+    "ClaimAmount": 8830.36,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 424,
+    "PatientID": 433,
+    "InsuranceID": 32,
+    "ClaimAmount": 673.3,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 425,
+    "PatientID": 397,
+    "InsuranceID": 131,
+    "ClaimAmount": 6714.99,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 426,
+    "PatientID": 105,
+    "InsuranceID": 180,
+    "ClaimAmount": 9403.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 427,
+    "PatientID": 269,
+    "InsuranceID": 148,
+    "ClaimAmount": 2523.32,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 428,
+    "PatientID": 405,
+    "InsuranceID": 270,
+    "ClaimAmount": 1748.47,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 429,
+    "PatientID": 41,
+    "InsuranceID": 2,
+    "ClaimAmount": 9104.24,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 430,
+    "PatientID": 311,
+    "InsuranceID": 9,
+    "ClaimAmount": 9770.58,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 431,
+    "PatientID": 27,
+    "InsuranceID": 195,
+    "ClaimAmount": 5023.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 432,
+    "PatientID": 15,
+    "InsuranceID": 312,
+    "ClaimAmount": 5733.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 433,
+    "PatientID": 462,
+    "InsuranceID": 495,
+    "ClaimAmount": 4252.42,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 434,
+    "PatientID": 125,
+    "InsuranceID": 251,
+    "ClaimAmount": 8275.13,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 435,
+    "PatientID": 346,
+    "InsuranceID": 21,
+    "ClaimAmount": 8827.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 436,
+    "PatientID": 420,
+    "InsuranceID": 162,
+    "ClaimAmount": 4513.91,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 437,
+    "PatientID": 276,
+    "InsuranceID": 40,
+    "ClaimAmount": 7658.81,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 438,
+    "PatientID": 57,
+    "InsuranceID": 350,
+    "ClaimAmount": 2701.05,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 439,
+    "PatientID": 203,
+    "InsuranceID": 111,
+    "ClaimAmount": 5768.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 440,
+    "PatientID": 420,
+    "InsuranceID": 468,
+    "ClaimAmount": 7367.48,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 441,
+    "PatientID": 452,
+    "InsuranceID": 38,
+    "ClaimAmount": 8878.62,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 442,
+    "PatientID": 315,
+    "InsuranceID": 107,
+    "ClaimAmount": 9037.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 443,
+    "PatientID": 422,
+    "InsuranceID": 442,
+    "ClaimAmount": 9486.94,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 444,
+    "PatientID": 38,
+    "InsuranceID": 445,
+    "ClaimAmount": 2275.26,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 445,
+    "PatientID": 376,
+    "InsuranceID": 96,
+    "ClaimAmount": 9392.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 446,
+    "PatientID": 15,
+    "InsuranceID": 354,
+    "ClaimAmount": 6515.4,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 447,
+    "PatientID": 243,
+    "InsuranceID": 371,
+    "ClaimAmount": 4490.04,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 448,
+    "PatientID": 406,
+    "InsuranceID": 46,
+    "ClaimAmount": 6312.26,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 449,
+    "PatientID": 249,
+    "InsuranceID": 390,
+    "ClaimAmount": 102.75,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 450,
+    "PatientID": 331,
+    "InsuranceID": 92,
+    "ClaimAmount": 4072.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 451,
+    "PatientID": 85,
+    "InsuranceID": 337,
+    "ClaimAmount": 803.23,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 452,
+    "PatientID": 180,
+    "InsuranceID": 490,
+    "ClaimAmount": 3630.97,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 453,
+    "PatientID": 116,
+    "InsuranceID": 431,
+    "ClaimAmount": 7543.51,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 454,
+    "PatientID": 305,
+    "InsuranceID": 43,
+    "ClaimAmount": 3629.31,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 455,
+    "PatientID": 61,
+    "InsuranceID": 102,
+    "ClaimAmount": 3989.92,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 456,
+    "PatientID": 63,
+    "InsuranceID": 158,
+    "ClaimAmount": 1019.58,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 457,
+    "PatientID": 330,
+    "InsuranceID": 452,
+    "ClaimAmount": 5808.25,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 458,
+    "PatientID": 275,
+    "InsuranceID": 484,
+    "ClaimAmount": 6925.34,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 459,
+    "PatientID": 321,
+    "InsuranceID": 154,
+    "ClaimAmount": 2743.01,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 460,
+    "PatientID": 489,
+    "InsuranceID": 208,
+    "ClaimAmount": 8381.88,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 461,
+    "PatientID": 344,
+    "InsuranceID": 406,
+    "ClaimAmount": 3396.2,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 462,
+    "PatientID": 16,
+    "InsuranceID": 31,
+    "ClaimAmount": 9713.93,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 463,
+    "PatientID": 42,
+    "InsuranceID": 467,
+    "ClaimAmount": 7795.88,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 464,
+    "PatientID": 330,
+    "InsuranceID": 300,
+    "ClaimAmount": 819.04,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 465,
+    "PatientID": 405,
+    "InsuranceID": 429,
+    "ClaimAmount": 9304.49,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 466,
+    "PatientID": 74,
+    "InsuranceID": 291,
+    "ClaimAmount": 7936.53,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 467,
+    "PatientID": 64,
+    "InsuranceID": 468,
+    "ClaimAmount": 277.72,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 468,
+    "PatientID": 472,
+    "InsuranceID": 230,
+    "ClaimAmount": 2338.12,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 469,
+    "PatientID": 293,
+    "InsuranceID": 494,
+    "ClaimAmount": 2090.04,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 470,
+    "PatientID": 411,
+    "InsuranceID": 15,
+    "ClaimAmount": 2394.66,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 471,
+    "PatientID": 279,
+    "InsuranceID": 389,
+    "ClaimAmount": 7034.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 472,
+    "PatientID": 333,
+    "InsuranceID": 175,
+    "ClaimAmount": 3769.78,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 473,
+    "PatientID": 94,
+    "InsuranceID": 455,
+    "ClaimAmount": 4379.54,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 474,
+    "PatientID": 309,
+    "InsuranceID": 352,
+    "ClaimAmount": 1441.71,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 475,
+    "PatientID": 498,
+    "InsuranceID": 280,
+    "ClaimAmount": 6404.63,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 476,
+    "PatientID": 288,
+    "InsuranceID": 309,
+    "ClaimAmount": 6207.84,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 477,
+    "PatientID": 439,
+    "InsuranceID": 43,
+    "ClaimAmount": 7546.73,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 478,
+    "PatientID": 380,
+    "InsuranceID": 58,
+    "ClaimAmount": 8958.33,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 479,
+    "PatientID": 304,
+    "InsuranceID": 362,
+    "ClaimAmount": 3498.45,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 480,
+    "PatientID": 344,
+    "InsuranceID": 222,
+    "ClaimAmount": 670.16,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 481,
+    "PatientID": 426,
+    "InsuranceID": 340,
+    "ClaimAmount": 8894.7,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 482,
+    "PatientID": 4,
+    "InsuranceID": 257,
+    "ClaimAmount": 6803.41,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 483,
+    "PatientID": 39,
+    "InsuranceID": 262,
+    "ClaimAmount": 165.87,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 484,
+    "PatientID": 489,
+    "InsuranceID": 202,
+    "ClaimAmount": 5100.03,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 485,
+    "PatientID": 300,
+    "InsuranceID": 229,
+    "ClaimAmount": 3728.28,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 486,
+    "PatientID": 202,
+    "InsuranceID": 181,
+    "ClaimAmount": 2843.64,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 487,
+    "PatientID": 282,
+    "InsuranceID": 345,
+    "ClaimAmount": 9946.32,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 488,
+    "PatientID": 380,
+    "InsuranceID": 205,
+    "ClaimAmount": 9613.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 489,
+    "PatientID": 282,
+    "InsuranceID": 20,
+    "ClaimAmount": 7815.27,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 490,
+    "PatientID": 395,
+    "InsuranceID": 233,
+    "ClaimAmount": 329.95,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 491,
+    "PatientID": 89,
+    "InsuranceID": 168,
+    "ClaimAmount": 1137.88,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 492,
+    "PatientID": 70,
+    "InsuranceID": 363,
+    "ClaimAmount": 6720.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 493,
+    "PatientID": 252,
+    "InsuranceID": 354,
+    "ClaimAmount": 5239.32,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 494,
+    "PatientID": 247,
+    "InsuranceID": 42,
+    "ClaimAmount": 332.41,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 495,
+    "PatientID": 24,
+    "InsuranceID": 415,
+    "ClaimAmount": 5835.1,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 496,
+    "PatientID": 217,
+    "InsuranceID": 209,
+    "ClaimAmount": 4245.81,
+    "ClaimDate": "",
+    "ClaimStatus": "Pending",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 497,
+    "PatientID": 172,
+    "InsuranceID": 263,
+    "ClaimAmount": 2730.53,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 498,
+    "PatientID": 75,
+    "InsuranceID": 129,
+    "ClaimAmount": 388.8,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 499,
+    "PatientID": 91,
+    "InsuranceID": 42,
+    "ClaimAmount": 5436.85,
+    "ClaimDate": "",
+    "ClaimStatus": "Rejected",
+    "created_at": "2024-08-05 17:16:09"
+  },
+  {
+    "ClaimID": 500,
+    "PatientID": 94,
+    "InsuranceID": 226,
+    "ClaimAmount": 3295.35,
+    "ClaimDate": "",
+    "ClaimStatus": "Approved",
+    "created_at": "2024-08-05 17:16:09"
+  }
+]
